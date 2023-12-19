@@ -17,3 +17,7 @@ buildNumber.properties
 .classpath
 *.iml
 /.idea
+/img.png
+/input
+/day12data
+/day14data
